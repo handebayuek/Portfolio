@@ -136,7 +136,6 @@ i:hover {
   line-height: 2rem;
   text-align: start;
   margin: auto;
-  line-height: 3rem;
 }
 
 .content-img {
@@ -438,7 +437,7 @@ h4 {
 }
 
 .skills-card {
-  width: 320px;
+  width: 300px;
   height: 300px;
   align-items: center;
   text-align: center;
@@ -658,11 +657,11 @@ footer {
     gap: 20px;
   }
 
-  .service-card-holder {
+  .skills-card-holder {
     flex-wrap: wrap;
   }
 
-  .service-card img {
+  .skills-card img {
     width: 300px;
   }
 
