@@ -671,6 +671,10 @@ footer {
   textarea {
     width: 100%;
   }
+
+  footer {
+    width: 500px;
+  }
 }
 
 @media (min-width: 501px) and (max-width: 900px) {
